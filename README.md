@@ -1,4 +1,4 @@
-Logged Out
+# Logged Out
 
 This repository consists only of C# scripts from my video game Logged Out. 
 
